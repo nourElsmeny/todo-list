@@ -28,7 +28,7 @@
     "@nestjs/platform-express": "^6.10.14",
     "asyncawait": "^3.0.0",
     "bcrypt": "^5.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.19",
     "moment": "^2.27.0",
     "mongoose": "^5.9.22",
